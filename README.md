@@ -45,8 +45,6 @@ I'm currently focused on enhancing PlayPreso with new features, improving perfor
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](your-linkedin-url)
-- [Portfolio](your-portfolio-url)
 - Email: pietromini@ymail.com
 
 ---
