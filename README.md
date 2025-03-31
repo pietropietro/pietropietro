@@ -47,6 +47,3 @@ I'm currently focused on enhancing PlayPreso with new features, improving perfor
 
 - Email: pietromini@ymail.com
 
----
-
-*Always building, always learning. Open to new opportunities and collaborations.*
