@@ -33,7 +33,7 @@ I've designed and developed PlayPreso, a complete football prediction platform a
 - **Mobile**: Capacitor, Flutter, Cordova, iOS/Android development
 - **Backend**: PHP, Node.js, Express, GraphQL, RESTful APIs
 - **Databases**: MySQL, Redis, MongoDB
-- **DevOps**: Docker, Nginx, PM2, VPS configuration, CI/CD
+- **DevOps**: Nginx, PM2, VPS configuration, CI/CD, Docker
 
 ### 📈 GitHub Activity
 
